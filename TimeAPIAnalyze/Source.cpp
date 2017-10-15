@@ -136,7 +136,7 @@ int main()
 		std::cout << "·" << i64Gap << "•ªˆÈ“à" << std::endl;
 	}
 	
-
+	std::cout << "Please enter any keys.." << std::endl;
 	getchar();
 	return 0;
 }
